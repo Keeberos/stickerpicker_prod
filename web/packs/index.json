@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "stalin.json"
+  ],
+  "homeserver_url": "https://matrix.kbl-kr.ru"
+}
